@@ -10686,6 +10686,16 @@
     "decay": "0.0",
     "type": "Melee"
   },
+  "Omegaton C-120, BGH": {
+    "ammo": 2220,
+    "decay": "0.2500",
+    "type": "Carbine"
+  },
+  "Omegaton C-120, BGH (L)": {
+    "ammo": 2220,
+    "decay": "0.2500",
+    "type": "Carbine"
+  },
   "Omegaton Flashfire": {
     "ammo": 0,
     "decay": "0.20502",

@@ -1046,6 +1046,16 @@
     "decay": "0.0002",
     "type": "Energy Amp"
   },
+  "RDI Energy Amplifier Gamma": {
+    "ammo": 1100,
+    "decay": "0.0002",
+    "type": "Energy Amp"
+  },
+  "RDI Energy Amplifier Gamma (L)": {
+    "ammo": 1000,
+    "decay": "0.0002",
+    "type": "Energy Amp"
+  },
   "Rage 10 (L)": {
     "ammo": 165,
     "decay": "0.00467",
