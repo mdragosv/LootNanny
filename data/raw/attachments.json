@@ -666,7 +666,22 @@
     "decay": "0.0",
     "type": "Melee Amp"
   },
-  "Mayhem MF-Amplfier Alpha (L)": {
+  "Mayhem MF-Amplifier Alpha (L)": {
+    "ammo": 898,
+    "decay": "0.00019",
+    "type": "MF Amp"
+  },
+  "Mayhem MF-Amplifier Beta (L)": {
+    "ammo": 898,
+    "decay": "0.00019",
+    "type": "MF Amp"
+  },
+  "Mayhem MF-Amplifier Gamma (L)": {
+    "ammo": 898,
+    "decay": "0.00019",
+    "type": "MF Amp"
+  },
+  "Mayhem MF-Amplifier Delta (L)": {
     "ammo": 898,
     "decay": "0.00019",
     "type": "MF Amp"
